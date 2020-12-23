@@ -5,3 +5,13 @@ Getting familiarized with Git
 Yep!
 See ya
 
+Just learned common git commands:
+>git init
+>ls
+>ls -a
+> git status (initially found 1 untracked file/ moved it to staging areas in order to get tracked by git by using git add command)
+> git add first.txt
+> git status (checked status once again, the file can now be tracked for Changes made to it/ but nothing committed yet)
+> git commit -m "my first commit" (git commit with message(-m "---")  ) 
+> git log (log of all commits made)
+
